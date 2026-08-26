@@ -17,9 +17,6 @@ Run the installer and follow the prompts. For setup help, visit
 
 ## About
 
-MorphCam is a product of **YOM Digitals Limited** (RC 8913694),
-registered in Nigeria.
-
 - Website: [usemorphcam.com](https://usemorphcam.com)
 - Support: support@usemorphcam.com
 
